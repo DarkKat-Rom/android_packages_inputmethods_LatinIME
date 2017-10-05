@@ -16,7 +16,7 @@
 
 <resources xmlns:android="http://schemas.android.com/apk/res/android">
 
-    <!-- DarkKat theme -->
+    <!-- Night (DarkKat) theme colors -->
     <color name="key_text_color_lxx_light">#CCFFFFFF</color>
     <color name="key_functional_text_color_lxx_light">#CCFFFFFF</color>
     <color name="key_text_inactive_color_lxx_light">#80FFFFFF</color>
